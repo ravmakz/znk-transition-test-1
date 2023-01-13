@@ -1,18 +1,19 @@
-### Summary
-> Describe the purpose of this PR.
-> Does it fix a bug or add a feature?
+<details>
+<summary><strong>Instructions</strong></summary>
 
-fix #<!-- Enter relevant issue number here -->
+Thanks for contributing! :heart:
 
-### What's changed?
-> Describe what's changed in more detail here.
-> We recommend using bullet points.
+If this contribution is for instructor training, please email the link to this contribution to
+instructor.training@carpentries.org so we can record your progress. You've completed your contribution
+step for instructor checkout by submitting this contribution!
 
-- <!-- Enter filename here -->
+Keep in mind that **lesson maintainers are volunteers** and it may take them some time to
+respond to your contribution. Although not all contributions can be incorporated into the lesson
+materials, we appreciate your time and effort to improve the curriculum. If you have any questions
+about the lesson maintenance process or would like to volunteer your time as a contribution
+reviewer, please contact The Carpentries Team at team@carpentries.org.
 
-### What should a reviewer concentrate their feedback on?
-> You can ask for specific feedback in this section.
-> We recommend using check boxes.
+You may delete these instructions from your comment.
 
-- [ ] <!-- Enter feedback request here -->
-- [ ] Everything looks ok?
+\- The Carpentries
+</details>
