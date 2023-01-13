@@ -81,3 +81,5 @@ profiles:
 
 url: https://preview.carpentries.org/znk-transition-test
 workbench-beta: 'true'
+beta-date: '1970-01-01'
+old-url: 'https://fishtree-attempt.github.io/znk-transition-test'
